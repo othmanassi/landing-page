@@ -1,0 +1,170 @@
+
+
+.color{
+    background: linear-gradient(135deg, #001040, #04ffe2);
+    height: 102%;
+    display: flex;
+}
+.color1{
+    background-color: white;
+    height: 100%;
+}
+.color2{
+    background-color: rgb(13, 13, 68);
+    height: 100%;
+}
+.color3{
+    height: 100%;
+    background-color: rgb(224, 224, 224);
+}
+.color4{
+    height: 100%;
+    background-color: white;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 60%;
+    margin-top: 27%;
+}
+.what{
+ margin-left: -25%;
+    margin-top: 2%;
+   background: linear-gradient(135deg, #04ffe2, #001e40 );
+    color: white;
+    width: 10%;
+    height: 5%;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+  transition: 0.3s;
+  border: none;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7)
+
+}
+.what:hover{
+    background-color: #000000;
+    box-shadow: 0 0 25px 4px rgba(red, green, blue, alpha);
+}
+.what:active{
+    background-color: 004080;
+    transform: translatey(10px);
+    box-shadow: 0 0 10px 1px rgba(red, green, blue, alpha)
+}
+.how{
+   margin-left: 1%;
+    margin-top: 2%;
+   background: linear-gradient(135deg, #04ffe2, #001e40 );
+    color: white;
+    width: 10%;
+    height: 5%;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+  transition: 0.3s;
+  border: none;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7)
+}
+.how:hover{
+    background-color: #000000;
+    box-shadow: 0 0 25px 4px rgba(red, green, blue, alpha);
+}
+.how:active{
+    background-color: 004080;
+    transform: translatey(10px);
+    box-shadow: 0 0 10px 1px rgba(red, green, blue, alpha)
+}
+.pricing{
+    
+ margin-left: 1%;
+    margin-top: 2%;
+   background: linear-gradient(135deg, #04ffe2, #001e40 );
+    color: white;
+    width: 10%;
+    height: 5%;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+  transition: 0.3s;
+  border: none;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7)
+}
+.pricing:hover{
+    background-color: #000000;
+    box-shadow: 0 0 25px 4px rgba(red, green, blue, alpha);
+}
+.pricing:active{
+    background-color: 004080;
+    transform: translatey(10px);
+    box-shadow: 0 0 10px 1px rgba(red, green, blue, alpha)
+}
+.download{
+     
+    margin-left: 1%;
+    margin-top: 2%;
+    background: linear-gradient(135deg, #04ffe2, #001e40 );
+    color: white;
+    width: 10%;
+    height: 5%;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+  transition: 0.3s;
+  border: none;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7)
+}
+.download:hover{
+    background-color: #000000;
+    box-shadow: 0 0 25px 4px rgba(red, green, blue, alpha);
+}
+.download:active{
+    background-color: 004080;
+    transform: translatey(10px);
+    box-shadow: 0 0 10px 1px rgba(red, green, blue, alpha)
+}
+.design{
+    margin-left: -85%;
+    color: aqua;
+    margin-top: 15%;
+    font-size: 500%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.design2{
+    margin-left: -22%;
+    color: aqua;
+    margin-top: 20%;
+    font-size: 500%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.design3{
+   margin-left: -42%;
+    color: aqua;
+    margin-top: 25%;
+    font-size: 500%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.start{
+    margin-top: 40%;
+    margin-left: -38%;
+    background: linear-gradient(135deg, #04ffe2, #001e40 );
+    color: white;
+    width: 10%;
+    height: 5%;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+  transition: 0.3s;
+  border: none;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7)
+  
+  
+}
+.start:hover{
+    background-color: #000000;
+    box-shadow: 0 0 25px 4px rgba(red, green, blue, alpha);
+}
+.start:active{
+    background-color: 004080;
+    transform: translatey(10px);
+    box-shadow: 0 0 10px 1px rgba(red, green, blue, alpha)
+}
